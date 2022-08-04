@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Viktor.
+
 Almost 9 years I work in microlelectronics production.
 From last year I active learning programming, and freelancing in my spare time.
 I'm interested in C# and Python.
