@@ -7,8 +7,7 @@ I'm interested in C# and Python.
 I wanna find job full-time C#.Net Developer. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VityaAnimato&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VityaAnimato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VityaAnimato&show_icons=true&theme=transparent)
 
 
 <!--
