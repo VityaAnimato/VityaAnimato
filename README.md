@@ -7,6 +7,7 @@ I'm interested in C# and Python.
 I wanna find job full-time C#.Net Developer. 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VityaAnimato&show_icons=true&theme=radical)
 
 <!--
 **VityaAnimato/VityaAnimato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
