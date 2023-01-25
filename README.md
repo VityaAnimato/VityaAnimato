@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Viktor.
 
-Almost 9 years I work in microlelectronics production.
+Almost 9 years I worked in microlelectronics production.
 
 Now I develop some apps on ASP.NET.
 
