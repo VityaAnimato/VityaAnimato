@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Viktor.
 I'm junior Unity dev & game designer
 
 Some my projects:
