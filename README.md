@@ -3,7 +3,7 @@ I'm junior Unity dev & game designer
 
 Playport Summer Camp 2023 Winner 💻🎮🏆
 
-Some my projects:
+Some of my projects:
 1. "CAT ON FIRE?" 😼
 
     2D platformer, Prototype
