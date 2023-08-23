@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm junior Unity dev & game designer
 
+2023 Playport Summer Camp Winner 💻🎮🏆
+
 Some my projects:
 1. "CAT ON FIRE?" 😼
 
